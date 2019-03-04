@@ -11,5 +11,8 @@ function theBeatlesPlay(people,things){
 function johnLennonFacts(facts){
   var jj=[];
   var i=0;
-  while(i<)
+  while(i<facts.length){
+    jj.push(facts[i]+'!!!')
+  }
+  return jj;
 }
