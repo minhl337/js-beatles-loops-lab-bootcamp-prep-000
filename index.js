@@ -24,4 +24,5 @@ function iLoveTheBeatles(num){
     ooo.push('I love the Beatles!')
     num++
   } while(num<15)
+  return ooo;
 }
